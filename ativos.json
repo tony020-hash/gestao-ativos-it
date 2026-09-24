@@ -1,0 +1,9 @@
+{
+    "123456": {
+        "nome": "desktop",
+        "responsavel": "cauan",
+        "localizacao": "1E30 ufu",
+        "tipo": "COMPUTADORES",
+        "vulnerabilidades": []
+    }
+}
